@@ -1,0 +1,12 @@
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.deps.json
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.dll
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.dll
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\refint\SistemaVenta.DTO.dll
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.pdb
+D:\DesarrolloDeSistemas\ProyectoFInalDS\API\SistemaVenta.DTO\obj\Debug\net7.0\ref\SistemaVenta.DTO.dll
