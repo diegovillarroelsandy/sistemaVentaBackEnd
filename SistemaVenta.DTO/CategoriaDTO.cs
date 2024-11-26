@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaVenta.DTO
 {
+    //Modelo Categoria
     public class CategoriaDTO
     {
         public int IdCategoria { get; set; }

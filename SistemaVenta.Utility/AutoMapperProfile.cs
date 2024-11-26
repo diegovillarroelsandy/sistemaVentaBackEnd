@@ -12,6 +12,7 @@ namespace SistemaVenta.Utility
 {
     public class AutoMapperProfile : Profile
     {
+        //Mapper de DTOS
         public AutoMapperProfile()
         {
             #region Rol

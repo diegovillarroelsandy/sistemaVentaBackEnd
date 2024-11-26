@@ -5,6 +5,7 @@ namespace SistemaVenta.Model;
 
 public partial class Categoria
 {
+    //Propiedades categoria
     public int IdCategoria { get; set; }
 
     public string? Nombre { get; set; }

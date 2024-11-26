@@ -17,6 +17,7 @@ namespace SistemaVenta.IOC
 {
     public static class Dependencia
     {
+        //Inyeccion de dependencia
         public static void InyectarDependencias(this IServiceCollection service, IConfiguration configuration)
         {
             service.AddDbContext<DbventaContext>(options =>

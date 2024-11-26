@@ -14,6 +14,7 @@ namespace SistemaVenta.BLL.Servicios
 {
     public class CategoriaService : ICategoriaService
     {
+        //Inyeccion de dependencias
         private readonly IGenericRepository<Categoria> _categoriaRepositorio;
         private readonly IMapper _mapper;
         public CategoriaService(IGenericRepository<Categoria> categoriaRepositorio, IMapper mapper)

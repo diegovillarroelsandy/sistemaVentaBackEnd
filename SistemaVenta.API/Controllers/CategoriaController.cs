@@ -12,6 +12,7 @@ namespace SistemaVenta.API.Controllers
     [ApiController]
     public class CategoriaController : ControllerBase
     {
+        //Categoria service
         private readonly ICategoriaService _categoriaService;
         public CategoriaController(ICategoriaService categoriaService)
         {
